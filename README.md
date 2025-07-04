@@ -39,12 +39,11 @@
 
 ## 📈 GitHub Stats
 
-[<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omghewaade&show_icons=true&theme=radical" alt="Om's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omghewaade&theme=radical" alt="GitHub Streak" />
-</p>](https://github-readme-stats.vercel.app/api?username=omghewade&show_icons=true&hide_title=true)
+## 👀 Most Used Languages
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omghewade&layout=compact&theme=dracula" />
+</p>
 ---
 
 ## 📫 Connect With Me
