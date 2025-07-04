@@ -39,7 +39,7 @@
 
 ## 📊 Github Streak Stats 
 
-![githubstreak](https://streak-stats.demolab.com?user=sanika-bhor&theme=highcontrast&border_radius=5.4)
+![githubstreak](https://streak-stats.demolab.com?user=omghewade&theme=highcontrast&border_radius=5.4)
 
 
 ## 📈 GitHub Stats
