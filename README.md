@@ -37,26 +37,24 @@
 
 ---
 
-## 📊 Github Streak Stats 
+## Github Streak Stats 
 
 ![githubstreak](https://streak-stats.demolab.com?user=omghewade&theme=highcontrast&border_radius=5.4)
 
 
-## 📈 GitHub Stats
-
-## 👀 Most Used Languages
+## Most Used Languages
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omghewade&layout=compact" />
 </p>
 ---
 
-## 📫 Connect With Me
- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="om-ghewade-193a94249" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/om-ghewade-193a94249?trk=profile-badge">Om Ghewade</a></div>
+## Connect With Me
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="om-ghewade-193a94249" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/om-ghewade-193a94249/">Om Ghewade</a></div>
               
 
-- 💼 LinkedIn: [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/)
-- 📧 Email: your-email@example.com
+- 💼 LinkedIn: [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/om-ghewade-193a94249/)
+- 📧 Email: ghewadeom@gmail.com
 
 ---
 
