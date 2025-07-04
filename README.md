@@ -52,6 +52,8 @@
 ---
 
 ## 📫 Connect With Me
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="om-ghewade-193a94249" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/om-ghewade-193a94249?trk=profile-badge">Om Ghewade</a></div>
+              
 
 - 💼 LinkedIn: [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/)
 - 📧 Email: your-email@example.com
