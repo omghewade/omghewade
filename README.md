@@ -10,7 +10,6 @@
 </p>
 
 ---
-
 ## 👨‍💻 About Me
 
 - 💼 Aspiring Software Engineer & Full Stack Developer  
