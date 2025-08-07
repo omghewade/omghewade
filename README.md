@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋,  I'm Om Ghewaade</h1>
+<h1 align="center">Hi there 👋, I'm Om Ghewaade</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/om-ghewade-193a94249/" target="_blank">
