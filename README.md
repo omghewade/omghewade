@@ -12,7 +12,7 @@
 ---
 ## 👨‍💻 About Me
 
-- 💼 Aspiring Software Engineer & Full Stack Developer  
+- 💼 Aspiring Software Engineer &  Full Stack Developer  
 - 🎓 Student at JSPM RSCOE, Pune  
 - 🔭 Currently working on: Java projects, DevOps basics, and OpenCV-based driver monitoring system  
 - 🌱 Exploring Azure, Docker, and cloud solutions  
