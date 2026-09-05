@@ -1,4 +1,4 @@
- 👋 Hi, I'm Om Sameer Ghewaade
+ 👋 Hi, I'm Om  Sameer Ghewaade
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=24,12,20,17&text=Om%20Sameer%20Ghewaade&fontSize=50&fontColor=ffffff"/>
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=FF3131&center=true&vCenter=true&width=900&lines=Azure+Administrator;Java+Full+Stack+Developer;Cloud+Engineer;DevOps+Enthusiast;Always+Learning+🚀"/>
