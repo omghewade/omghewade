@@ -107,10 +107,10 @@ Cloud-hosted management application for Panchakarma therapy scheduling and recor
 |:--|:--|
 | 🥇 | **Best Paper Award** |
 | 🥇 | **Tech Mania** — Winner |
-| 🥈 | **National Technothon** — Runner up |
-| 🏅 | **ACM Logica 5.0** — Finalist |
-| 🏅 | **KPIT K-Impact** — Finalist |
-| 🏅 | **IETE NLPC** — Finalist |
+| 🥈 | **National Technothon** — Winner|
+| 🏅 | **ACM Logica 5.0** — Winner |
+| 🏅 | **KPIT K-Impact** — Winner |
+| 🏅 | **IETE NLPC** — Winner |
 
 ---
 
