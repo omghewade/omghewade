@@ -157,12 +157,7 @@ open_to:   Software Engineering · Cloud Infrastructure · DevOps / SRE
 
 <br>
 
-**Parag Milk Foods Ltd.** — IT Infrastructure Intern · *Feb 2024 – Aug 2026* · Pune
 
-- Administer on-premise servers across multiple plant sites: Windows Server, Hyper-V, Active Directory, WSUS patching.
-- Run the osTicket helpdesk — ticket queues, SLA rules, mail backend, agent and department setup.
-- Track IT tasks and rollouts in the project management tool: assignment, progress updates, status reports.
-- Handle backups, DR drills and infrastructure monitoring; write SOPs for common L1 and L2 issues.
 
 **IBN Technologies Ltd.** — Cloud Intern · *Jun 2023 – Jul 2023* · Pune
 
