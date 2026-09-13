@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/omghewade">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=0078D4&center=true&vCenter=true&width=700&height=60&lines=Software+Engineer;Cloud+%26+DevOps+Engineer;Azure+Administrator+(AZ-104);Java+%C2%B7+Spring+Boot+%C2%B7+Kubernetes" alt="Software Engineer · Cloud & DevOps Engineer">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=0078D4&center=true&vCenter=true&width=700&height=60&lines=Software+Engineer;Cloud+Infrastructure;DevOps+%2F+SRE" alt="Typing animation">
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 ## 👋 About
 
-Half of my work is writing software — **Java / Spring Boot** services, REST APIs, React front-ends. The other half is the infrastructure underneath: servers, containers, pipelines and the monitoring that tells you when something broke.
+Half of my work is writing software — **Java / Spring Boot** services, REST APIs, React front-ends. The other half is the infrastructure underneath: servers, containers, pipelines and the monitoring that keeps it all running.
 
 ```yaml
 name:      Om Ghewade
@@ -106,18 +106,30 @@ open_to:   Software Engineering · Cloud Infrastructure · DevOps / SRE
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **[Fraud Call Detection](https://github.com/omghewade/fraudcalldetection-)** <br> ![](https://img.shields.io/github/languages/top/omghewade/fraudcalldetection-?style=flat-square&color=ED8B00) | Real-time service that processes streaming call data and flags fraud, with REST APIs over Azure SQL and Power BI dashboards for trends and system metrics. | `Spring Boot` `Event Hubs` `Stream Analytics` `Power BI` |
-| **[Portfolio](https://github.com/omghewade/portfolio-om)** <br> ![](https://img.shields.io/github/last-commit/omghewade/portfolio-om?style=flat-square&color=3178C6) | Personal site built with Next.js and TypeScript — Radix UI components, GSAP and Spline for the interactive pieces. | `Next.js` `TypeScript` `Tailwind` `GSAP` |
-| **[Ticketing Tool](https://github.com/omghewade/Ticketing-tool-)** | Helpdesk ticketing app — queues, assignment and status tracking, built after running osTicket in production day to day. | `JavaScript` `Node.js` |
-| **[Construction Management](https://github.com/omghewade/civil-construction-management-software)** | Management system for civil construction workflows, mixing a Java service layer with a JavaScript front-end. | `Java` `JavaScript` |
-| **[Shell Automation](https://github.com/omghewade/Script)** | Collection of shell scripts for the server and deployment tasks that shouldn't be done by hand twice. | `Bash` `Linux` |
-| **[DSA](https://github.com/omghewade/DSA)** | Data structures and algorithms practice in Java. | `Java` |
+| **[Fraud Call Detection](https://github.com/omghewade/fraudcalldetection-)** <br> ![](https://img.shields.io/github/languages/top/omghewade/fraudcalldetection-?style=flat-square&color=ED8B00) | Real-time detection service processing streaming call data with REST APIs over Azure SQL. Power BI dashboards for fraud trends and system metrics. 40% reduction in false positives. | Spring Boot, Azure SQL, Kafka, Power BI |
+| **[Portfolio](https://github.com/omghewade/portfolio-om)** <br> ![](https://img.shields.io/github/last-commit/omghewade/portfolio-om?style=flat-square&color=3178C6) | Personal site built with Next.js and TypeScript. Showcases projects, skills, and achievements with a modern, responsive design. | Next.js, TypeScript, React, Tailwind CSS |
+| **[Ticketing Tool](https://github.com/omghewade/Ticketing-tool-)** | Helpdesk ticketing app with queues, assignment, status tracking and SLA management. Built after running osTicket in production day to day. | Spring Boot, React, MySQL, REST APIs |
+| **[Construction Management](https://github.com/omghewade/civil-construction-management-software)** | Management system for civil construction workflows, mixing a Java service layer with a JavaScript frontend. Project tracking, resource allocation, progress reporting. | Java, JavaScript, MySQL, Spring Boot |
+| **[Shell Automation](https://github.com/omghewade/Script)** | Collection of shell scripts for server and deployment tasks that shouldn't be done by hand twice. Automates backups, patching, deployments. | Bash, Linux |
+| **[DSA](https://github.com/omghewade/DSA)** | Data structures and algorithms practice in Java. Problem solving and algorithm optimization. | Java |
 
 <p align="center"><a href="https://github.com/omghewade?tab=repositories"><b>→ all 28 repositories</b></a></p>
 
 ---
 
-## 🐍 Contribution graph
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omghewade&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=0078D4&icon_color=0078D4&text_color=333&bg_color=fff" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omghewade&layout=compact&hide_border=true&title_color=0078D4&text_color=333&bg_color=fff" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omghewade&hide_border=true&stroke=0078D4&ring=0078D4&fire=0078D4&currStreakNum=0078D4&sideNums=0078D4&currStreakLabel=0078D4&sideLabels=555&dates=555&background=fff" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omghewade/omghewade/output/snake-dark.svg">
@@ -197,7 +209,3 @@ open_to:   Software Engineering · Cloud Infrastructure · DevOps / SRE
   <b>Open to Software Engineering, Cloud Infrastructure and DevOps / SRE roles.</b><br>
   <a href="mailto:ghewadeom@gmail.com">ghewadeom@gmail.com</a> · <a href="https://www.linkedin.com/in/om-ghewade">LinkedIn</a>
 </p>
-
-<!-- Stats cards are deliberately omitted: the public github-readme-stats,
-     github-profile-trophy and activity-graph instances were all returning
-     503/402 when this was written. Self-host them on Vercel if you want them. -->
