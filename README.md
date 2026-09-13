@@ -1,91 +1,176 @@
+<p align="center">
+  <a href="https://github.com/omghewade">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=0078D4&center=true&vCenter=true&width=700&height=60&lines=Software+Engineer;Cloud+%26+DevOps+Engineer;Azure+Administrator+(AZ-104);Java+%C2%B7+Spring+Boot+%C2%B7+Kubernetes" alt="Software Engineer · Cloud & DevOps Engineer">
+  </a>
+</p>
+
 <h1 align="center">Om Ghewade</h1>
 
 <p align="center">
-  <b>Cloud Infrastructure &amp; SRE</b> · Azure Administrator (AZ-104) certified<br>
-  · B.Tech IT @ RSCOE Pune
+  I build backend services and the cloud infrastructure they run on.<br>
+  <sub>B.Tech IT @ RSCOE Pune · Based in Pune, India</sub>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/om-ghewade"><img src="https://img.shields.io/badge/LinkedIn-om--ghewade-0A66C2?style=flat-square" alt="LinkedIn"></a>
-  <a href="mailto:ghewadeom@gmail.com"><img src="https://img.shields.io/badge/Email-ghewadeom@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Pune,_India-IST-555?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
-  <img src="https://img.shields.io/badge/AZ--104-Certified-0078D4?style=flat-square" alt="AZ-104">
+  <a href="https://www.linkedin.com/in/om-ghewade"><img src="https://img.shields.io/badge/LinkedIn-om--ghewade-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:ghewadeom@gmail.com"><img src="https://img.shields.io/badge/Email-ghewadeom@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/AZ--104-Certified-0078D4?style=for-the-badge" alt="AZ-104 certified">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omghewade&style=flat-square&color=0078D4&label=Profile+views" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/omghewade?style=flat-square&color=0078D4&label=Followers" alt="Followers">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fomghewade&query=%24.public_repos&label=Public%20repos&style=flat-square&color=0078D4" alt="Public repos">
 </p>
 
 ---
 
-### About
+## 👋 About
 
-I keep production infrastructure running and automate the parts that shouldn't be manual.
+Half of my work is writing software — **Java / Spring Boot** services, REST APIs, React front-ends. The other half is the infrastructure underneath: servers, containers, pipelines and the monitoring that tells you when something broke.
 
-- 🏭 **Currently** — administering on-premise servers across multiple plant sites at **Parag Milk Foods**: Windows Server, Hyper-V, Active Directory, WSUS patching, backups and DR drills.
-- 🎫 Run the **osTicket** helpdesk end to end — queues, SLA rules, mail backend, agent and department setup — and write the SOPs for recurring L1/L2 issues.
-- ☁️ Project work across **Azure and AWS**, containers and CI/CD: Docker, Kubernetes, Jenkins, Terraform.
-- 🎓 **B.Tech Information Technology**, JSPM's RSCOE Pune — CGPA **8.92/10** (2024–2027). Diploma in CS, MMM Polytechnic — CGPA **9.10/10**.
-- 🎯 Looking for roles in **cloud infrastructure** or **site reliability engineering**.
+```yaml
+name:      Om Ghewade
+role:      Software Engineer · Cloud & DevOps
+current:   IT Infrastructure @ Parag Milk Foods Ltd. (Pune)
+building:  Spring Boot APIs · CI/CD pipelines · Azure + AWS infrastructure
+learning:  Kubernetes operators · Terraform · platform reliability
+education: B.Tech Information Technology — CGPA 8.92/10
+open_to:   Software Engineering · Cloud Infrastructure · DevOps / SRE
+```
+
+- 💻 **Software** — Spring Boot REST APIs over Azure SQL and MongoDB, a Next.js + TypeScript portfolio, a ticketing tool, DSA practice in Java.
+- 🔁 **DevOps** — Jenkins pipelines, Docker images, Kubernetes deployments; shell automation for the repetitive parts.
+- 🏭 **Infrastructure** — on-premise Windows Server, Hyper-V and Active Directory across multiple plant sites, plus backups, DR drills and monitoring.
+- 🎫 **Operations** — run the osTicket helpdesk end to end (queues, SLA rules, mail backend) and write the SOPs for recurring L1/L2 issues.
 
 ---
 
-### Tech I work with
+## 🛠️ Tech
 
-**Cloud**
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
-![Azure SQL](https://img.shields.io/badge/Azure_SQL-CC2927?style=flat-square)
-![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=flat-square)
-![Event Hubs](https://img.shields.io/badge/Event_Hubs-0078D4?style=flat-square)
-
-**DevOps &amp; CI/CD**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-
-**Infrastructure &amp; OS**
-
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square)
-![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-
-**Monitoring &amp; Languages**
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square)
+<table>
+<tr><td><b>Languages</b></td><td>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square" alt="SQL">
+</td></tr>
+<tr><td><b>Frameworks</b></td><td>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square" alt="REST APIs">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven">
+</td></tr>
+<tr><td><b>Cloud</b></td><td>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square" alt="Azure">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS">
+  <img src="https://img.shields.io/badge/Azure_SQL-CC2927?style=flat-square" alt="Azure SQL">
+  <img src="https://img.shields.io/badge/Cosmos_DB-0078D4?style=flat-square" alt="Cosmos DB">
+  <img src="https://img.shields.io/badge/Event_Hubs-0078D4?style=flat-square" alt="Event Hubs">
+  <img src="https://img.shields.io/badge/AKS-0078D4?style=flat-square" alt="AKS">
+</td></tr>
+<tr><td><b>DevOps</b></td><td>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</td></tr>
+<tr><td><b>Data</b></td><td>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square" alt="Power BI">
+</td></tr>
+<tr><td><b>Platform</b></td><td>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square" alt="Windows Server">
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square" alt="Active Directory">
+  <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square" alt="Hyper-V">
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
+</td></tr>
+</table>
 
 **Networking** — TCP/IP · DNS · DHCP · HTTP/HTTPS · SSL/TLS · VPN · Firewalls · Load Balancing
 
 ---
 
-### Projects
+## 🚀 Projects
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **Multi-Cloud Infrastructure Case Study** | Built equivalent infrastructure on Azure and AWS — compute, virtual networks, IAM, storage tiers, load balancing, monitoring — then compared the two on availability, security controls and cost. | Azure, AWS, IAM, Load Balancing |
-| **Fraud Call Detection System** | Real-time detection service processing streaming call data, with REST APIs over Azure SQL and Power BI dashboards for fraud trends and system metrics. | Spring Boot, Event Hubs, Stream Analytics, Power BI |
-| **CDN Implementation** | Distributed content delivery using Redis caching, load balancing and cache invalidation — cut response times and backend load. | Redis, Load Balancing |
-| **CI/CD Automation Platform** | Automated build, test and deploy workflows, removing manual release steps. | Jenkins, Docker, Kubernetes |
+| **[Fraud Call Detection](https://github.com/omghewade/fraudcalldetection-)** <br> ![](https://img.shields.io/github/languages/top/omghewade/fraudcalldetection-?style=flat-square&color=ED8B00) | Real-time service that processes streaming call data and flags fraud, with REST APIs over Azure SQL and Power BI dashboards for trends and system metrics. | `Spring Boot` `Event Hubs` `Stream Analytics` `Power BI` |
+| **[Portfolio](https://github.com/omghewade/portfolio-om)** <br> ![](https://img.shields.io/github/last-commit/omghewade/portfolio-om?style=flat-square&color=3178C6) | Personal site built with Next.js and TypeScript — Radix UI components, GSAP and Spline for the interactive pieces. | `Next.js` `TypeScript` `Tailwind` `GSAP` |
+| **[Ticketing Tool](https://github.com/omghewade/Ticketing-tool-)** | Helpdesk ticketing app — queues, assignment and status tracking, built after running osTicket in production day to day. | `JavaScript` `Node.js` |
+| **[Construction Management](https://github.com/omghewade/civil-construction-management-software)** | Management system for civil construction workflows, mixing a Java service layer with a JavaScript front-end. | `Java` `JavaScript` |
+| **[Shell Automation](https://github.com/omghewade/Script)** | Collection of shell scripts for the server and deployment tasks that shouldn't be done by hand twice. | `Bash` `Linux` |
+| **[DSA](https://github.com/omghewade/DSA)** | Data structures and algorithms practice in Java. | `Java` |
+
+<p align="center"><a href="https://github.com/omghewade?tab=repositories"><b>→ all 28 repositories</b></a></p>
 
 ---
 
-### Certifications
+## 🐍 Contribution graph
 
-![AZ-104](https://img.shields.io/badge/Microsoft-Azure_Administrator_Associate_(AZ--104)-0078D4?style=flat-square)
-![AZ-900](https://img.shields.io/badge/Microsoft-Azure_Fundamentals_(AZ--900)-0078D4?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-Cloud_Foundations-FF9900?style=flat-square)
-![CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omghewade/omghewade/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omghewade/omghewade/output/snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/omghewade/omghewade/output/snake.svg">
+</picture>
+
+<sub>Regenerated daily by <a href="https://github.com/omghewade/omghewade/actions">GitHub Actions</a>.</sub>
 
 ---
+
+## 📜 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft-Azure_Administrator_Associate_(AZ--104)-0078D4?style=for-the-badge" alt="AZ-104">
+  <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals_(AZ--900)-0078D4?style=for-the-badge" alt="AZ-900">
+  <img src="https://img.shields.io/badge/AWS-Cloud_Foundations-FF9900?style=for-the-badge" alt="AWS Cloud Foundations">
+  <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA">
+</p>
+
+---
+
+<details>
+<summary><b>💼 Experience</b></summary>
+
+<br>
+
+**Parag Milk Foods Ltd.** — IT Infrastructure Intern · *Feb 2024 – Aug 2026* · Pune
+
+- Administer on-premise servers across multiple plant sites: Windows Server, Hyper-V, Active Directory, WSUS patching.
+- Run the osTicket helpdesk — ticket queues, SLA rules, mail backend, agent and department setup.
+- Track IT tasks and rollouts in the project management tool: assignment, progress updates, status reports.
+- Handle backups, DR drills and infrastructure monitoring; write SOPs for common L1 and L2 issues.
+
+**IBN Technologies Ltd.** — Cloud Intern · *Jun 2023 – Jul 2023* · Pune
+
+- Built CI/CD pipelines automating build, test and deployment for internal applications.
+- Containerised applications with Docker and deployed them to cloud platforms.
+- Debugged deployment and configuration issues alongside the development team.
+
+</details>
+
+<details>
+<summary><b>🎓 Education</b></summary>
+
+<br>
+
+| Qualification | Institute | Score | Years |
+| :--- | :--- | :--- | :--- |
+| B.Tech, Information Technology | JSPM's Rajarshi Shahu College of Engineering, Pune | CGPA 8.92/10 | 2024 – 2027 |
+| Diploma, Computer Science | Marathwada Mitra Mandal Polytechnic, Pune | CGPA 9.10/10 | 2021 – 2024 |
+
+</details>
 
 <details>
 <summary><b>🏆 Awards &amp; achievements</b> (9)</summary>
@@ -108,25 +193,11 @@ I keep production infrastructure running and automate the parts that shouldn't b
 
 ---
 
-### GitHub
-
 <p align="center">
-  <img src="https://img.shields.io/github/followers/omghewade?style=flat-square&label=Followers&color=0078D4" alt="Followers">
-  <img src="https://img.shields.io/github/stars/omghewade?style=flat-square&label=Stars&color=0078D4" alt="Stars">
+  <b>Open to Software Engineering, Cloud Infrastructure and DevOps / SRE roles.</b><br>
+  <a href="mailto:ghewadeom@gmail.com">ghewadeom@gmail.com</a> · <a href="https://www.linkedin.com/in/om-ghewade">LinkedIn</a>
 </p>
 
-<!-- Stats cards: the public github-readme-stats instance was returning 503 when this
-     README was written (it rate-limits often). Uncomment if it comes back up, or
-     self-host your own Vercel instance and swap the hostname.
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=omghewade&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=0078D4&icon_color=0078D4" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omghewade&layout=compact&hide_border=true&title_color=0078D4" alt="top languages">
-</p>
--->
-
----
-
-<p align="center">
-  <i>Open to cloud infrastructure and SRE roles — reach me at <a href="mailto:ghewadeom@gmail.com">ghewadeom@gmail.com</a>.</i>
-</p>
+<!-- Stats cards are deliberately omitted: the public github-readme-stats,
+     github-profile-trophy and activity-graph instances were all returning
+     503/402 when this was written. Self-host them on Vercel if you want them. -->
