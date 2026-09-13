@@ -1,196 +1,132 @@
-<div align="center">
+<h1 align="center">Om Ghewade</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B0E1A,55:1B2238,100:FF6B35&text=Om%20Sameer%20Ghewaade&fontSize=48&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&desc=Azure%20Administrator%20%C2%B7%20Java%20Full%20Stack%20Developer&descSize=16&descAlign=50&descAlignY=58"/>
+<p align="center">
+  <b>Cloud Infrastructure &amp; SRE</b> · Azure Administrator (AZ-104) certified<br>
+  IT Infrastructure Intern at Parag Milk Foods · B.Tech IT @ RSCOE Pune
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2800&pause=900&color=FF6B35&center=true&vCenter=true&width=760&lines=Azure+Administrator+(AZ-104);Java+Full+Stack+Developer;Cloud+Engineer;DevOps+Enthusiast;Code+%E2%80%A2+Build+%E2%80%A2+Deploy+%E2%80%A2+Repeat"/>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/om-ghewade-193a94249/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:ghewadeom@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/">
-  <img src="https://img.shields.io/badge/AZ--104%20Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=omghewade&style=for-the-badge&color=FF6B35&label=PROFILE+VIEWS"/>
-
-</div>
-
----
-
-## About me
-
-```yaml
-name:     Om Sameer Ghewaade
-location: Pune, India
-studying: B.Tech Information Technology — JSPM RSCOE, Pune
-certs:    [ AZ-104 Azure Administrator, AZ-900 Azure Fundamentals ]
-role:     Java Full Stack Developer
-focus:    [ Kubernetes, Azure, Docker, Terraform, System Design ]
-status:   Open to Cloud / DevOps roles
-```
-
-- Microsoft Certified **Azure Administrator Associate (AZ-104)** and **Azure Fundamentals (AZ-900)**
-- Building full stack applications in **Java / Spring Boot**, deployed on **Azure**
-- Working across **containers, infrastructure as code and CI/CD**
-- Currently going deeper on **Kubernetes, Terraform and system design**
-
----
-
-## Tech stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp&theme=dark"/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark"/>
-
-**Backend &amp; data**
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,mongodb&theme=dark"/>
-
-**Cloud &amp; DevOps**
-
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,ansible,jenkins&theme=dark"/>
-
-**Platform &amp; tools**
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark"/>
-
----
-
-## Azure services I work with
-
-<p>
-<img src="https://img.shields.io/badge/Azure%20VM-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/AKS-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure%20SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Event%20Hub-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stream%20Analytics-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Storage-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/>
-<img src="https://img.shields.io/badge/Load%20Balancer-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Container%20Registry-0078D4?style=flat-square&logo=docker&logoColor=white"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/om-ghewade"><img src="https://img.shields.io/badge/LinkedIn-om--ghewade-0A66C2?style=flat-square" alt="LinkedIn"></a>
+  <a href="mailto:ghewadeom@gmail.com"><img src="https://img.shields.io/badge/Email-ghewadeom@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Pune,_India-IST-555?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/AZ--104-Certified-0078D4?style=flat-square" alt="AZ-104">
 </p>
 
 ---
 
-## Featured projects
+### About
 
-<!-- Add repo links below once the repositories are public: [Name](https://github.com/omghewade/<repo>) -->
+I keep production infrastructure running and automate the parts that shouldn't be manual.
 
-### Telecom Fraud Call Detection
-Real-time pipeline that ingests call records, detects fraudulent calling patterns in the stream, and reports on them.
-
-`Azure Event Hub` &nbsp;·&nbsp; `Azure Stream Analytics` &nbsp;·&nbsp; `Apache Spark` &nbsp;·&nbsp; `Databricks` &nbsp;·&nbsp; `Power BI`
-
-### Driver Monitoring System
-Camera-based driver attention monitoring using facial landmark tracking.
-
-`Python` &nbsp;·&nbsp; `OpenCV` &nbsp;·&nbsp; `MediaPipe`
-
-### Panchakarma Management System
-Cloud-hosted management application for Panchakarma therapy scheduling and records.
-
-`Spring Boot` &nbsp;·&nbsp; `Azure` &nbsp;·&nbsp; `MySQL`
+- 🏭 **Currently** — administering on-premise servers across multiple plant sites at **Parag Milk Foods**: Windows Server, Hyper-V, Active Directory, WSUS patching, backups and DR drills.
+- 🎫 Run the **osTicket** helpdesk end to end — queues, SLA rules, mail backend, agent and department setup — and write the SOPs for recurring L1/L2 issues.
+- ☁️ Project work across **Azure and AWS**, containers and CI/CD: Docker, Kubernetes, Jenkins, Terraform.
+- 🎓 **B.Tech Information Technology**, JSPM's RSCOE Pune — CGPA **8.92/10** (2024–2027). Diploma in CS, MMM Polytechnic — CGPA **9.10/10**.
+- 🎯 Looking for roles in **cloud infrastructure** or **site reliability engineering**.
 
 ---
 
-## Achievements
+### Tech I work with
 
-| | Achievement |
-|:--|:--|
-| 🥇 | **Best Paper Award** |
-| 🥇 | **Tech Mania** — Winner |
-| 🥈 | **National Technothon** — Winner|
-| 🏅 | **ACM Logica 5.0** — Winner |
-| 🏅 | **KPIT K-Impact** — Winner |
-| 🏅 | **IETE NLPC** — Winner |
+**Cloud**
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-CC2927?style=flat-square)
+![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=flat-square)
+![Event Hubs](https://img.shields.io/badge/Event_Hubs-0078D4?style=flat-square)
+
+**DevOps &amp; CI/CD**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+**Infrastructure &amp; OS**
+
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
+**Monitoring &amp; Languages**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square)
+
+**Networking** — TCP/IP · DNS · DHCP · HTTP/HTTPS · SSL/TLS · VPN · Firewalls · Load Balancing
 
 ---
 
-## GitHub stats
+### Projects
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=omghewade&show_icons=true&hide_border=true&bg_color=0B0E1A&title_color=FF6B35&icon_color=4FC3F7&text_color=C9CFE2"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omghewade&layout=compact&hide_border=true&bg_color=0B0E1A&title_color=FF6B35&text_color=C9CFE2"/>
-
-<img src="https://streak-stats.demolab.com?user=omghewade&hide_border=true&background=0B0E1A&stroke=26304C&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=C9CFE2&currStreakNum=F2F5FF&sideNums=F2F5FF&dates=7C869F"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=omghewade&theme=darkhub&no-frame=true&row=1&column=6"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omghewade&bg_color=0B0E1A&color=F2F5FF&line=FF6B35&point=4FC3F7&area=true&hide_border=true"/>
-
-</div>
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| **Multi-Cloud Infrastructure Case Study** | Built equivalent infrastructure on Azure and AWS — compute, virtual networks, IAM, storage tiers, load balancing, monitoring — then compared the two on availability, security controls and cost. | Azure, AWS, IAM, Load Balancing |
+| **Fraud Call Detection System** | Real-time detection service processing streaming call data, with REST APIs over Azure SQL and Power BI dashboards for fraud trends and system metrics. | Spring Boot, Event Hubs, Stream Analytics, Power BI |
+| **CDN Implementation** | Distributed content delivery using Redis caching, load balancing and cache invalidation — cut response times and backend load. | Redis, Load Balancing |
+| **CI/CD Automation Platform** | Automated build, test and deploy workflows, removing manual release steps. | Jenkins, Docker, Kubernetes |
 
 ---
 
-## Contribution snake
+### Certifications
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/omghewade/omghewade/output/github-contribution-grid-snake-dark.svg"/>
-</div>
+![AZ-104](https://img.shields.io/badge/Microsoft-Azure_Administrator_Associate_(AZ--104)-0078D4?style=flat-square)
+![AZ-900](https://img.shields.io/badge/Microsoft-Azure_Fundamentals_(AZ--900)-0078D4?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-Cloud_Foundations-FF9900?style=flat-square)
+![CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+---
 
 <details>
-<summary>Setup — enable the snake animation</summary>
+<summary><b>🏆 Awards &amp; achievements</b> (9)</summary>
 
-<br/>
+<br>
 
-1. Add the workflow file below at `.github/workflows/snake.yml` in the `omghewade/omghewade` repo.
-2. Go to **Settings → Actions → General → Workflow permissions** and select **Read and write permissions**.
-3. Run it once from the **Actions** tab (`Run workflow`), which creates the `output` branch.
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Generate snake
-        uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: omghewade
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+| Year | Award | Event |
+| :--- | :--- | :--- |
+| 2026 | 3rd Prize | Logica 5.0 National Project Competition (ACM) |
+| 2026 | Consolation Prize | NLPC-2026 |
+| 2025 | — | K-Impact Innovation Contest (KPIT) |
+| 2024 | Special Prize | Technical Milestone |
+| 2023 | 1st Prize | Tech-Mania |
+| 2023 | 2nd Prize | National Technothon |
+| 2023 | 2nd Prize | Automation Ascension |
+| 2023 | 3rd Prize | PRAKALP |
+| 2022 | Best Paper Award (1st Prize) | NCACSE |
 
 </details>
 
 ---
 
-## Connect
+### GitHub
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/github/followers/omghewade?style=flat-square&label=Followers&color=0078D4" alt="Followers">
+  <img src="https://img.shields.io/github/stars/omghewade?style=flat-square&label=Stars&color=0078D4" alt="Stars">
+</p>
 
-**LinkedIn** — [om-ghewade-193a94249](https://www.linkedin.com/in/om-ghewade-193a94249/) &nbsp;·&nbsp; **Email** — [ghewadeom@gmail.com](mailto:ghewadeom@gmail.com)
+<!-- Stats cards: the public github-readme-stats instance was returning 503 when this
+     README was written (it rate-limits often). Uncomment if it comes back up, or
+     self-host your own Vercel instance and swap the hostname.
 
-<br/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=omghewade&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=0078D4&icon_color=0078D4" alt="stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omghewade&layout=compact&hide_border=true&title_color=0078D4" alt="top languages">
+</p>
+-->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:FF6B35,45:1B2238,100:0B0E1A&text=Code%20%E2%80%A2%20Build%20%E2%80%A2%20Deploy%20%E2%80%A2%20Repeat&fontSize=20&fontColor=FFFFFF&fontAlignY=75"/>
+---
 
-</div>
+<p align="center">
+  <i>Open to cloud infrastructure and SRE roles — reach me at <a href="mailto:ghewadeom@gmail.com">ghewadeom@gmail.com</a>.</i>
+</p>
