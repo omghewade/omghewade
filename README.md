@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Cloud Infrastructure &amp; SRE</b> · Azure Administrator (AZ-104) certified<br>
-  IT Infrastructure Intern at Parag Milk Foods · B.Tech IT @ RSCOE Pune
+  · B.Tech IT @ RSCOE Pune
 </p>
 
 <p align="center">
