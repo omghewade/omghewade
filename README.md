@@ -29,7 +29,6 @@
 
 Half of my work is writing software — **Java / Spring Boot** services, REST APIs, React front-ends. The other half is the infrastructure underneath: servers, containers, pipelines and the monitoring that keeps it all running.
 
-```yaml
 name:      Om Ghewade
 role:      Software Engineer · Cloud & DevOps
 current:   IT Infrastructure @ Parag Milk Foods Ltd. (Pune)
@@ -37,8 +36,6 @@ building:  Spring Boot APIs · CI/CD pipelines · Azure + AWS infrastructure
 learning:  Kubernetes operators · Terraform · platform reliability
 education: B.Tech Information Technology — CGPA 8.92/10
 open_to:   Software Engineering · Cloud Infrastructure · DevOps / SRE
-```
-
 - 💻 **Software** — Spring Boot REST APIs over Azure SQL and MongoDB, a Next.js + TypeScript portfolio, a ticketing tool, DSA practice in Java.
 - 🔁 **DevOps** — Jenkins pipelines, Docker images, Kubernetes deployments; shell automation for the repetitive parts.
 - 🏭 **Infrastructure** — on-premise Windows Server, Hyper-V and Active Directory across multiple plant sites, plus backups, DR drills and monitoring.
@@ -106,12 +103,12 @@ open_to:   Software Engineering · Cloud Infrastructure · DevOps / SRE
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **[Fraud Call Detection](https://github.com/omghewade/fraudcalldetection-)** <br> ![](https://img.shields.io/github/languages/top/omghewade/fraudcalldetection-?style=flat-square&color=ED8B00) | Real-time detection service processing streaming call data with REST APIs over Azure SQL. Power BI dashboards for fraud trends and system metrics. 40% reduction in false positives. | Spring Boot, Azure SQL, Kafka, Power BI |
-| **[Portfolio](https://github.com/omghewade/portfolio-om)** <br> ![](https://img.shields.io/github/last-commit/omghewade/portfolio-om?style=flat-square&color=3178C6) | Personal site built with Next.js and TypeScript. Showcases projects, skills, and achievements with a modern, responsive design. | Next.js, TypeScript, React, Tailwind CSS |
-| **[Ticketing Tool](https://github.com/omghewade/Ticketing-tool-)** | Helpdesk ticketing app with queues, assignment, status tracking and SLA management. Built after running osTicket in production day to day. | Spring Boot, React, MySQL, REST APIs |
-| **[Construction Management](https://github.com/omghewade/civil-construction-management-software)** | Management system for civil construction workflows, mixing a Java service layer with a JavaScript frontend. Project tracking, resource allocation, progress reporting. | Java, JavaScript, MySQL, Spring Boot |
-| **[Shell Automation](https://github.com/omghewade/Script)** | Collection of shell scripts for server and deployment tasks that shouldn't be done by hand twice. Automates backups, patching, deployments. | Bash, Linux |
-| **[DSA](https://github.com/omghewade/DSA)** | Data structures and algorithms practice in Java. Problem solving and algorithm optimization. | Java |
+| **Fraud Call Detection (→ github.com)** <br> ![](https://img.shields.io/github/languages/top/omghewade/fraudcalldetection-?style=flat-square&color=ED8B00) | Real-time detection service processing streaming call data with REST APIs over Azure SQL. Power BI dashboards for fraud trends and system metrics. 40% reduction in false positives. | Spring Boot, Azure SQL, Kafka, Power BI |
+| **Portfolio (→ github.com)** <br> ![](https://img.shields.io/github/last-commit/omghewade/portfolio-om?style=flat-square&color=3178C6) | Personal site built with Next.js and TypeScript. Showcases projects, skills, and achievements with a modern, responsive design. | Next.js, TypeScript, React, Tailwind CSS |
+| **Ticketing Tool (→ github.com)** | Helpdesk ticketing app with queues, assignment, status tracking and SLA management. Built after running osTicket in production day to day. | Spring Boot, React, MySQL, REST APIs |
+| **Construction Management (→ github.com)** | Management system for civil construction workflows, mixing a Java service layer with a JavaScript frontend. Project tracking, resource allocation, progress reporting. | Java, JavaScript, MySQL, Spring Boot |
+| **Shell Automation (→ github.com)** | Collection of shell scripts for server and deployment tasks that shouldn't be done by hand twice. Automates backups, patching, deployments. | Bash, Linux |
+| **DSA (→ github.com)** | Data structures and algorithms practice in Java. Problem solving and algorithm optimization. | Java |
 
 <p align="center"><a href="https://github.com/omghewade?tab=repositories"><b>→ all 28 repositories</b></a></p>
 
@@ -156,6 +153,8 @@ open_to:   Software Engineering · Cloud Infrastructure · DevOps / SRE
 <summary><b>💼 Experience</b></summary>
 
 <br>
+
+
 
 **IBN Technologies Ltd.** — Cloud Intern · *Jun 2023 – Jul 2023* · Pune
 
@@ -202,3 +201,4 @@ open_to:   Software Engineering · Cloud Infrastructure · DevOps / SRE
   <b>Open to Software Engineering, Cloud Infrastructure and DevOps / SRE roles.</b><br>
   <a href="mailto:ghewadeom@gmail.com">ghewadeom@gmail.com</a> · <a href="https://www.linkedin.com/in/om-ghewade">LinkedIn</a>
 </p>
+
