@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=140&section=header" width="100%" alt="header banner">
+</p>
+
+<p align="center">
   <a href="https://github.com/omghewade">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=0078D4&center=true&vCenter=true&width=700&height=60&lines=Software+Engineer;Cloud+Infrastructure;DevOps+%2F+SRE" alt="Typing animation">
   </a>
@@ -12,9 +16,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/om-ghewade"><img src="https://img.shields.io/badge/LinkedIn-om--ghewade-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/om-ghewade"><img src="https://img.shields.io/badge/LinkedIn-om--ghewade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:ghewadeom@gmail.com"><img src="https://img.shields.io/badge/Email-ghewadeom@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/AZ--104-Certified-0078D4?style=for-the-badge" alt="AZ-104 certified">
+  <img src="https://img.shields.io/badge/AZ--104-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-104 certified">
 </p>
 
 <p align="center">
@@ -23,11 +27,23 @@
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fomghewade&query=%24.public_repos&label=Public%20repos&style=flat-square&color=0078D4" alt="Public repos">
 </p>
 
----
+<br>
 
-## 👋 About
+<h2 align="center">👋 About</h2>
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 Half of my work is writing software — **Java / Spring Boot** services, REST APIs, React front-ends. The other half is the infrastructure underneath: servers, containers, pipelines and the monitoring that keeps it all running.
+
+- 💻 **Software** — Spring Boot REST APIs over Azure SQL and MongoDB, a Next.js + TypeScript portfolio, a ticketing tool, DSA practice in Java.
+- 🔁 **DevOps** — Jenkins pipelines, Docker images, Kubernetes deployments; shell automation for the repetitive parts.
+- 🏭 **Infrastructure** — on-premise Windows Server, Hyper-V and Active Directory across multiple plant sites, plus backups, DR drills and monitoring.
+- 🎫 **Operations** — run the osTicket helpdesk end to end (queues, SLA rules, mail backend) and write the SOPs for recurring L1/L2 issues.
+
+</td>
+<td width="45%" valign="top">
 
 ```yaml
 name:      Om Ghewade
@@ -39,14 +55,13 @@ education: B.Tech Information Technology — CGPA 8.92/10
 open_to:   Software Engineering · Cloud Infrastructure · DevOps / SRE
 ```
 
-- 💻 **Software** — Spring Boot REST APIs over Azure SQL and MongoDB, a Next.js + TypeScript portfolio, a ticketing tool, DSA practice in Java.
-- 🔁 **DevOps** — Jenkins pipelines, Docker images, Kubernetes deployments; shell automation for the repetitive parts.
-- 🏭 **Infrastructure** — on-premise Windows Server, Hyper-V and Active Directory across multiple plant sites, plus backups, DR drills and monitoring.
-- 🎫 **Operations** — run the osTicket helpdesk end to end (queues, SLA rules, mail backend) and write the SOPs for recurring L1/L2 issues.
+</td>
+</tr>
+</table>
 
----
+<br>
 
-## 🛠️ Tech
+<h2 align="center">🛠️ Tech</h2>
 
 <table>
 <tr><td><b>Languages</b></td><td>
@@ -66,8 +81,8 @@ open_to:   Software Engineering · Cloud Infrastructure · DevOps / SRE
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven">
 </td></tr>
 <tr><td><b>Cloud</b></td><td>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square" alt="Azure">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Azure_SQL-CC2927?style=flat-square" alt="Azure SQL">
   <img src="https://img.shields.io/badge/Cosmos_DB-0078D4?style=flat-square" alt="Cosmos DB">
   <img src="https://img.shields.io/badge/Event_Hubs-0078D4?style=flat-square" alt="Event Hubs">
@@ -98,11 +113,11 @@ open_to:   Software Engineering · Cloud Infrastructure · DevOps / SRE
 </td></tr>
 </table>
 
-**Networking** — TCP/IP · DNS · DHCP · HTTP/HTTPS · SSL/TLS · VPN · Firewalls · Load Balancing
+<p align="center"><b>Networking</b> — TCP/IP · DNS · DHCP · HTTP/HTTPS · SSL/TLS · VPN · Firewalls · Load Balancing</p>
 
----
+<br>
 
-## 🚀 Projects
+<h2 align="center">🚀 Projects</h2>
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
@@ -115,49 +130,59 @@ open_to:   Software Engineering · Cloud Infrastructure · DevOps / SRE
 
 <p align="center"><a href="https://github.com/omghewade?tab=repositories"><b>→ all 28 repositories</b></a></p>
 
----
+<br>
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omghewade&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=0078D4&icon_color=0078D4&text_color=333&bg_color=fff" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omghewade&layout=compact&hide_border=true&title_color=0078D4&text_color=333&bg_color=fff" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omghewade&hide_border=true&stroke=0078D4&ring=0078D4&fire=0078D4&currStreakNum=0078D4&sideNums=0078D4&currStreakLabel=0078D4&sideLabels=555&dates=555&background=fff" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=omghewade&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark&title_color=58B4FF&icon_color=58B4FF">
+    <img src="https://github-readme-stats.vercel.app/api?username=omghewade&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=0078D4&icon_color=0078D4&text_color=333" alt="GitHub Stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omghewade&layout=compact&hide_border=true&theme=dark&title_color=58B4FF">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omghewade&layout=compact&hide_border=true&title_color=0078D4&text_color=333" alt="Top Languages">
+  </picture>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=omghewade&hide_border=true&theme=dark&stroke=58B4FF&ring=58B4FF&fire=58B4FF&currStreakNum=58B4FF&sideNums=58B4FF&currStreakLabel=58B4FF&sideLabels=8b949e&dates=8b949e">
+    <img src="https://streak-stats.demolab.com/?user=omghewade&hide_border=true&stroke=0078D4&ring=0078D4&fire=0078D4&currStreakNum=0078D4&sideNums=0078D4&currStreakLabel=0078D4&sideLabels=555&dates=555" alt="GitHub Streak">
+  </picture>
 </p>
 
----
+<br>
 
-## 🐍 Contribution Graph
+<h2 align="center">🐍 Contribution Graph</h2>
 
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omghewade/omghewade/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omghewade/omghewade/output/snake.svg">
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/omghewade/omghewade/output/snake.svg">
 </picture>
-
+<br>
 <sub>Regenerated daily by <a href="https://github.com/omghewade/omghewade/actions">GitHub Actions</a>.</sub>
+</p>
 
----
+<br>
 
-## 📜 Certifications
+<h2 align="center">📜 Certifications</h2>
 
-<p>
-  <img src="https://img.shields.io/badge/Microsoft-Azure_Administrator_Associate_(AZ--104)-0078D4?style=for-the-badge" alt="AZ-104">
-  <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals_(AZ--900)-0078D4?style=for-the-badge" alt="AZ-900">
-  <img src="https://img.shields.io/badge/AWS-Cloud_Foundations-FF9900?style=for-the-badge" alt="AWS Cloud Foundations">
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft-Azure_Administrator_Associate_(AZ--104)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-104">
+  <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals_(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900">
+  <img src="https://img.shields.io/badge/AWS-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Foundations">
   <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA">
 </p>
 
----
+<br>
+
+<h2 align="center">🧭 Journey</h2>
 
 <details>
 <summary><b>💼 Experience</b></summary>
 
 <br>
-
-
 
 **IBN Technologies Ltd.** — Cloud Intern · *Jun 2023 – Jul 2023* · Pune
 
@@ -198,9 +223,13 @@ open_to:   Software Engineering · Cloud Infrastructure · DevOps / SRE
 
 </details>
 
----
+<br>
 
 <p align="center">
   <b>Open to Software Engineering, Cloud Infrastructure and DevOps / SRE roles.</b><br>
   <a href="mailto:ghewadeom@gmail.com">ghewadeom@gmail.com</a> · <a href="https://www.linkedin.com/in/om-ghewade">LinkedIn</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=100&section=footer" width="100%" alt="footer banner">
 </p>
